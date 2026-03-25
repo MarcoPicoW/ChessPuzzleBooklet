@@ -146,14 +146,15 @@ def solution_tex(p: dict) -> str:
 # ─────────────────────────── document sections ─────────────────────────────
 
 def make_preamble(week: int, year: int, author: str) -> str:
-    return r"""\documentclass[11pt, a5paper]{article}
+    return r"""\documentclass[10pt]{article}
 
 % ── packages ──────────────────────────────────────────────────────────────
-\usepackage[a5paper, top=20mm, bottom=22mm, left=16mm, right=16mm]{geometry}
+\usepackage[a6paper, top=10mm, bottom=12mm, left=10mm, right=10mm]{geometry}
 \usepackage{chessboard}
 \usepackage{skak}
 \usepackage{fancyhdr}
 \usepackage{booktabs}
+\usepackage{rotating}
 \usepackage[
     pattern=std,
     majorcolor=black!25,
@@ -233,21 +234,19 @@ def make_solutions_page(puzzles: list[dict]) -> str:
     lines.append(r"\label{solutions}")
     lines.append(r"\section*{Solutions}")
     lines.append("")
-    lines.append(r"\bigskip")
-    lines.append(r"\begin{tabular}{@{} r l @{}}")
+    lines.append(r"\begin{turn}{-90}")
+    lines.append(r"\begin{tabular}{r l}")
     lines.append(r"\toprule")
     lines.append(r"\textbf{N.} & \textbf{Solution} \\")
     lines.append(r"\midrule")
 
     for i, p in enumerate(puzzles, 1):
         sol = solution_tex(p)
-        # add a separator line between difficulty groups
-        if i in (5, 8, 10):
-            lines.append(r"\midrule")
         lines.append(f" {i:2d} & {sol} \\\\[3pt]")
 
     lines.append(r"\bottomrule")
     lines.append(r"\end{tabular}")
+    lines.append(r"\end{turn}")
     return "\n".join(lines)
 
 
