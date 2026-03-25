@@ -1,0 +1,360 @@
+a) 
+ferrucciolari vs YASMURO, lichess, (2002)
+4kb2/r4pp1/n1pqp1p1/4N3/QB1PnP2/P7/6PP/1R3RK1 b - - 0 1
+[ ...Qxd4+ Kh1 Nxb4 Qxb4 ]
+
+b) 
+CGilligan vs Yeah_YEah, lichess, (2003)
+r1b1k2r/pp1n1ppp/2n1p3/2bpP3/5B2/2NB1N2/PqPQ1PPP/R3K2R w KQkq - 1 0
+[ Rb1 Qa3 Nb5 if Qa5 Qxa5 Nxa5 Nc7+ or if Qxa2 0-0 0-0 Ra1 ]
+
+c) 
+White mates in 2.
+CM Kingscrusher vs Gasee, lichess, (2003)
+4rk1r/pp2q3/3p1p2/4nP2/4PQ1P/1B1p4/PPP5/2K3R1 w - - 1 0
+[ Qh6+ ]
+
+d) 
+Garcial vs Brokensoul, lichess, (2004)
+2k3r1/1pp4p/p3p1q1/8/4n1Q1/1BP5/PP4PK/5R2 w - - 1 0
+[ Qxe6+ Qxe6 Bxe6+ ]
+
+e) 
+CM FaustiOro vs CM Kingscrusher, lichess, (2005)
+1k1rR3/p1p4p/1p4p1/1B3b2/8/P1P3P1/2Pr3P/2K1R3 w - - 1 0
+[ Bd3 ]
+
+Puzzles rated 2000-2099, pt. ii.
+The color disk on the diagram indicates who moves first.
+a) 
+ALjedi-cat vs Gorec68, lichess, (2007)
+r2q1rk1/1pp2ppp/2n5/pB1N1b2/1b1PnB2/1Q2PN2/PP3PPP/R4RK1 b - - 0 1
+[ ...Be6 if a3 Bxd5 or if Bc4 a4 ]
+
+b) 
+Goathi77 vs RedMilan, lichess, (2008)
+8/5k1p/5pp1/1p1P4/5P2/2RN3r/1n2K2P/8 w - - 1 0
+[ Ne5+ fxe5 Rxh3 ]
+
+c) 
+Abzal2005 vs gen9alf_magic, lichess, (2017)
+2r1r1k1/5ppp/8/pp1b2b1/3P1B2/P1P5/1P1N2PP/2R2RK1 b - - 0 1
+[ ...Re2 if Rf2 Rxf2 Kxf2 Bxf4 or if Bxg5 Rxg2+ ]
+
+d) 
+Happy_Time2021 vs okoono, lichess, (2017)
+2r3qk/pp1n1Q1p/4p2R/3pP1r1/8/2N5/PPP2RPP/6K1 b - - 0 1
+[ ...Rxg2+ Kf1 Rxf2+ Qxf2 Rf8 ]
+
+e) 
+denni1988 vs BeyondStrategy, lichess, (2018)
+3r2k1/p1r3p1/Bp1qb2p/5p2/3n4/P1R2N2/1P2Q1PP/5RK1 w - - 1 0
+[ Nxd4 Qxd4+ Kh1 if Rxc3 Qxe6+ or if Qd6 Rxc7 ]
+
+Puzzles rated 2000-2099, pt. iii.
+The color disk on the diagram indicates who moves first.
+a) 
+Lesya_B vs s0034, lichess, (2019)
+6k1/6p1/4p2p/3p4/6Q1/2q4P/P2r4/1R5K w - - 1 0
+[ Qxe6+ Kh7 Qf5+ g6 Rb7+ ]
+
+b) 
+CM Alejandropacheco29 vs Longines, lichess, (2020)
+8/8/p5p1/2Pr1k1p/4N2P/P2p1P2/R2K2n1/8 w - - 1 0
+[ c6 Rd8 c7 Rf8 Rb2 if Rc8 Nd6+ ]
+
+c) 
+Black mates in 3.
+aswinnelson vs Elserbusestao, lichess, (2023)
+2kr1b2/pp5Q/1qp1p1p1/4n3/1n6/2NP1N2/PPPB1PPP/2KR3R b - - 0 1
+[ ...Nbxd3+ cxd3 Nxd3+ ]
+
+d) 
+Kaspaski vs juansa1982, lichess, (2024)
+1r1k4/5RR1/7p/4r3/1n6/1p5P/6P1/7K w - - 1 0
+[ Rf8+ Re8 Rxe8+ Kxe8 Rg8+ ]
+
+e) 
+camelopniky vs Sanchez001, lichess, (2024)
+r5k1/pp3pq1/2pr2BQ/6P1/2n1pK2/2N5/PPP5/5R1R b - - 0 1
+[ ...Qe5+ Kg4 Ne3+ Kh3 Rxg6 ]
+
+Puzzles rated 2000-2099, pt. iv.
+The color disk on the diagram indicates who moves first.
+a) 
+klotera vs CM Kingscrusher, lichess, (2026)
+r1bqr1k1/p1pp1ppp/1bp5/8/2PBn3/P1N5/1P1QPPPP/R3KB1R w KQ - 1 0
+[ Nxe4 Rxe4 c5 ]
+
+b) 
+Rostik05 vs NK3, lichess, (2027)
+r4bk1/3R1p2/4p2p/3b1P2/rp2p3/1N2B3/1PP4P/1K1R4 w - - 1 0
+[ Rg1+ Kh8 Bd4+ e5 Bxe5+ Kh7 Rxd5 ]
+
+c) 
+Sorryiamslow vs DisciplinedCalm, lichess, (2028)
+4b1k1/5p2/p2K2p1/1p4B1/6Pp/1P5P/r7/3R4 w - - 1 0
+[ Re1 if Kf8 Bh6+ ]
+
+d) 
+David_short vs CM Kingscrusher, lichess, (2028)
+bqr2rk1/3nbppp/P2ppn2/1N6/4P3/2N1BP2/1PPQ2PP/R2R2K1 w - - 1 0
+[ Ba7 ]
+
+e) 
+poikanen vs TapsA, lichess, (2031)
+r1b2rk1/pppnb1pp/4p3/5p2/q2NN1Q1/2P5/PP3PPP/R1B2RK1 w - - 1 0
+[ Nxf5 Rxf5 Nf6+ Nxf6 Qxa4 ]
+
+Puzzles rated 2000-2099, pt. v.
+The color disk on the diagram indicates who moves first.
+a) 
+GranAL vs Nwab, lichess, (2033)
+4rk2/p1p2ppp/1p3n2/5N2/4q3/P3Q2P/1PP4P/2KR4 w - - 1 0
+[ Qg5 if Nh5 Qxh5 Qf4+ Kb1 ]
+
+b) 
+White mates in 3.
+ham_ham77 vs Sitnikovsky, lichess, (2033)
+r1b4r/pp1nbk1p/1qn1p1p1/3pP1pQ/3P1N2/3B4/PP3PPP/R1B2RK1 w - - 1 0
+[ Bxg6+ Kf8 Nxe6+ ]
+
+c) 
+DUMORRO vs STONE-GOLD, lichess, (2034)
+6Q1/p3k2p/1p1p4/2p1qp2/8/PB1P4/KPP4r/8 w - - 1 0
+[ Qf7+ Kd8 Be6 ]
+
+d) 
+nurunavukati vs veerajee, lichess, (2035)
+r4r2/ppp1Npkp/3p1n2/8/3QPq2/8/PPP5/1K1R4 w - - 1 0
+[ Nf5+ Kg6 Rg1+ Qg4 Qe3 ]
+
+e) 
+sadramahdizadeh vs ajeyaa, lichess, (2038)
+2r3k1/pp1Qqpp1/4r2p/2P2b2/1P6/P4B2/1K3PPP/3R3R b - - 0 1
+[ ...Re2+ if Bxe2 Bxd7 ]
+
+Puzzles rated 2000-2099, pt. vi.
+The color disk on the diagram indicates who moves first.
+a) 
+CM Kingscrusher va NM Shahoviy_Komentator, lichess, (2041)
+1k6/p1p5/1pP2Qn1/1q6/1P1rp2p/8/P3p2P/6RK w - - 1 0
+[ Qh8+ ]
+
+b) 
+HoundDog1 vs AEAP2017, lichess, (2042)
+1bb4r/7k/3q4/p2p1pB1/P1nP4/8/2B2PQ1/4R1K1 w - - 1 0
+[ Re7+ Qxe7 Bxe7 Rg8 Bg5 if Bf4 Qh3+ mates ]
+
+c) 
+Umarqayyim10 vs you_know_nothing, lichess, (2042)
+r1bq1rk1/4bppp/p3P3/1p6/4P3/1n3R1P/PPPQN1P1/3R2K1 w - - 1 0
+[ exf7+ Kh8 Qxd8 Bxd8 Rxd8 if Rxd8 f8/Q+ mates or if Bb7 Rxf8+ ]
+
+d) 
+Nitrilos vs C3PO32, lichess, (2045)
+r1b2rk1/pp3ppp/2p5/3p4/B4Bnq/3P4/PPP2PPN/RN1QR1K1 b - - 0 1
+[ ...Qxf2+ Kh1 Qxf4 Nxg4 Bxg4 Qd2 Qxa4 ]
+
+e) 
+atPetros vs mihalu4, lichess, (2045)
+2kr3r/1pp1q1pp/p3p3/3Pbp2/1PB5/P3PQ2/5PPP/3R1RK1 b - - 0 1
+[ ...Qh4 g3 Qxc4 ]
+
+Puzzles rated 2000-2099, pt. vii.
+The color disk on the diagram indicates who moves first.
+a) 
+JGKoek vs Boiwadda, lichess, (2045)
+3r1k2/p1p3pp/8/1p2N2B/8/2P1K3/PP1N2bP/8 b - - 0 1
+[ ...Rd5 ]
+
+b) 
+CM Kingscrusher vs zembelek, lichess, (2048)
+B2Q4/8/p4qr1/1pb2pk1/8/7p/PP3PP1/4R1K1 w - - 1 0
+[ Qd2+ Kh4 Qf4+ Rg4 g3+ Kh5 Bf3 ]
+
+c) 
+Afghan1 vs Frank14o2, lichess, (2050)
+4kr2/pr1ppp2/1pq4p/6p1/Q2R4/4P3/2P2PPP/5RK1 w - - 1 0
+[ Rc4 if Qxa4 Rc8# ]
+
+d) 
+hafizmedani vs ultrascoreR, lichess, (2051)
+r5k1/1p2q3/3p3P/p1p1p2p/4Q2P/1PPP4/1P3r2/1K1R4 w - - 1 0
+[ Rg1+ Kh8 Rg7 or if Kf8 h7 ]
+
+e) 
+Shaji2525 vs siemaonnwic, lichess, (2053)
+R7/8/6p1/p5r1/2PK1kP1/8/8/8 w - - 1 0
+[ c5 Rxg4 c6 ]
+
+Puzzles rated 2000-2099, pt. viii.
+The color disk on the diagram indicates who moves first.
+a) 
+MarchandDardo vs PROmedallin3506, lichess, (2058)
+r4rk1/1b2bpp1/p3p2p/4P3/8/3B1P2/qB2Q1PP/2R2RK1 w - - 1 0
+[ Rc7 Qb3 Rxe7 ]
+
+b) 
+PranavBobbySekhar vs WilliamZ2020, lichess, (2059)
+8/1N6/p5k1/1p1Np3/4PP1p/8/PPPK4/7r b - - 0 1
+[ ...h3 fxe5 h2 e6 Rd1+ Kxd1 h1/Q+ Kd2 Qxe4 ]
+
+c) 
+White mates in 2.
+bombadil777 vs Barsukov_VM, lichess, (2060)
+r7/4r3/p3N2p/1b1P1p2/6pk/1PR5/5KPP/3B4 w - - 1 0
+[ Rh3+ gxh3 g3# ]
+
+d) 
+zsebibaba2002 vs IM jsequera, lichess, (2060)
+3r1rk1/1pp2ppp/p2q1n2/8/2nPB1P1/3QB2P/PPP2P2/2KR3R b - - 0 1
+[ ...Qb4 Qb3 Qxb3 axb3 Nxe3 fxe3 Nxe4 ]
+
+e) 
+Hridayesh_Kundu vs Jking789, lichess, (2061)
+r2r2k1/pbp1qppp/1pp5/8/5Q2/2N3P1/PPP2PBP/R1B3K1 b - - 0 1
+[ ...Qe1+ Bf1 Ba6 if Bd2 Qxa1 ]
+
+Puzzles rated 2000-2099, pt. ix.
+The color disk on the diagram indicates who moves first.
+a) 
+Amin34 vs TheDonaldo21, lichess, (2061)
+N4bk1/1p2n2p/3p1n1r/p2Pp1p1/4Pp2/3N1P1q/PP2B2P/2RQ1RBK b - - 0 1
+[ ...Nh5 Qe1 Ng3+ ]
+
+b) 
+dwpaley vs Farlosol, lichess, (2062)
+6k1/2R2pp1/p2b3p/4N3/8/4PK2/1r4PP/8 w - - 1 0
+[ Rc8+ Kh7 Nc4 Rc2 Nxd6 ]
+
+c) 
+FM Scarlet_dawn vs CM Kingscrusher, lichess, (2067)
+r1b3k1/ppp3p1/2n1p3/3p2p1/3P2q1/2PB2P1/P1PB3P/R4Q1K w - - 1 0
+[ Bg6 Bd7 Qf7+ Kh8 Rf1 Rg8 Qxd7 ]
+
+d) 
+hamitorllani vs CM Kingscrusher, lichess, (2068)
+r3rbk1/p4p2/3q1Pbp/1p1N2Q1/2P4P/3P4/PP4P1/4RRK1 w - - 1 0
+[ Qxg6+ fxg6 f7+ Kg7 fxe8/Q Rxe8 Rxe8 ]
+
+e) 
+FM Stradivari17 vs dubic, lichess, (2068)
+8/4Np1k/3r1p1n/8/5PP1/5K2/2R5/8 w - - 1 0
+[ Rh2 Ra6 Nf5 Ra3+ Ke4 ]
+
+Puzzles rated 2000-2099, pt. x.
+The color disk on the diagram indicates who moves first.
+a) 
+CM Kingscrusher vs amator179, lichess, (2069)
+4r1k1/pp2pp2/6p1/4b3/q2pN1P1/1b1P1Q2/P1r2R2/K1B4R w - - 1 0
+[ Rxc2 Bxc2 Qh3 Rc8 g5 Qc6 Nf6+ if Bxf6 gxf6 ]
+
+b) 
+cagr_u vs larttu, lichess, (2072)
+6k1/p4p1p/5r2/1R2K2Q/2pP4/2P4P/P1P2Pq1/1R6 b - - 0 1
+[ ...Re6+ Kf4 Qxf2+ Qf3 Rf6+ Rf5 Rxf5+ Kxf5 Qf3+ ]
+
+c) 
+White mates in 2.
+Neirda51 vs Chessfavgame2021, lichess, (2073)
+rn1qkb1r/pp2pppp/2p5/3bN3/2B5/5Q2/PPPP1PPP/R1B1K2R w - - 1 0
+[ Qxf7+ Bxf7 Bxf7# ]
+
+d) 
+kingchas3r vs Niemans, lichess, (2074)
+4r1k1/p1p3pp/8/1pb5/4r3/3qN1P1/PP1PQ2P/R1B1K2R b - - 0 1
+[ ...Rxe3 dxe3 Bb4+ Bd2 Rxe3 Qxe3 Qxe3+ ]
+
+e) 
+Nelle93 vs ali655, lichess, (2074)
+5r1k/pp4pp/2p3n1/3p4/3P4/1Q2P1qb/PP1BR1B1/R5K1 b - - 0 1
+[ ...Nh4 if e4 Nf3+ Kf1 Nxd4+ ]
+
+Puzzles rated 2000-2099, pt. xi.
+The color disk on the diagram indicates who moves first.
+a) 
+Arthur23 vs NM FalzeHope, lichess, (2076)
+4R3/p7/1p1P1r2/8/6kp/2PK4/8/8 w - - 1 0
+[ Re4+ Kf3 d7 Rd6+ Rd4 ]
+
+b) 
+Roberto_Baggio1978 vs IM Kubas92, lichess, (2078)
+2k1r3/pp2Pp1p/2p3pP/5q2/2P5/1P3P1n/PQ6/K2R4 w - - 1 0
+[ Qd4 if b6 Qd8+ ]
+
+c) 
+White mates in 2.
+vladvlad7 vs positivepirate, lichess, (2079)
+1r2r3/1p4R1/p2p3p/2nN1p1k/P1P5/KP6/1B6/8 w - - 1 0
+[ Nf4+ Kh4 Bf6# ]
+
+d) 
+Oruc2010 vs Nazghul92, lichess, (2080)
+8/pR3pk1/2P3p1/8/7p/4r3/PP6/2K5 w - - 1 0
+[ c7 h3 c8/Q h2 Rxf7+ Kxf7 Qc7+ ]
+
+e) 
+White mates in 2.
+proteenx vs IM MassterofMayhem, lichess, (2081)
+2b5/pB6/1p6/2p5/2Pk2p1/1P2R1K1/r2rP3/5R2 w - - 1 0
+[ Rf4+ ]
+
+Puzzles rated 2000-2099, pt. xii.
+The color disk on the diagram indicates who moves first.
+a) 
+Lowlita vs NM username20, lichess, (2083)
+1r2q1k1/p4bpp/1p1Q1p2/3Bp3/2n5/6P1/P2BPP1P/3R2K1 w - - 1 0
+[ Bxf7+ Kxf7 Qc7+ Kg8 Qxc4+ ]
+
+b) 
+Jack15 vs nico76899, lichess, (2085)
+7k/3r2p1/p6p/8/4P3/qp2BP2/4QKPP/3R4 b - - 0 1
+[ ...Rxd1 Qxd1 Qa2+ Kg3 b2 ]
+
+c) 
+Sk178 vs star_01angel, lichess, (2085)
+r2q1rk1/p4pp1/2ppbn1p/1pbNp3/3nP3/P2P2NP/BPP2PP1/R1BQ1RK1 w - - 1 0
+[ Nxf6+ Qxf6 c3 ]
+
+d) 
+Contento vs FM Kirillov-Dmitry, lichess, (2086)
+5r1k/1b3pqn/pp2p3/4N2Q/P2rNb2/6PR/1P3P1P/4R1K1 w - - 1 0
+[ Nf6 Bh6 Qxh6 Qxh6 Rxh6 Kg7 Nxh7 ]
+
+e) 
+iztaccoyotl vs StefanS100, lichess, (2087)
+6k1/pR4p1/1p2p3/6Nn/3qP3/3r4/PP4BK/2Q5 b - - 0 1
+[ ...Qd6+ Kg1 Rd1+ ]
+
+Puzzles rated 2000-2099, pt. xiii.
+The color disk on the diagram indicates who moves first.
+a) 
+CM Kingscrusher vs lion5555, lichess, (2089)
+8/2pqp1k1/5rpr/p2p3P/3PpQ2/2P5/P4P2/2K3RR w - - 1 0
+[ Qxh6+ Kxh6 hxg6+ Kg7 Rh7+ Kg8 g7 Qe8 Rh8+ ]
+
+b) 
+VooV vs solimanennara, lichess, (2089)
+r1b2rk1/1p2ppbp/p1qp2p1/8/PPP1nP2/4PB2/2RB2PP/1N1QK2R w K - 1 0
+[ b5 if axb5 axb5 ]
+
+c) 
+Alimond vs farjamof, lichess, (2091)
+r3k1nr/pp4p1/2p1P2p/Q1P2p2/5n1N/3p2Pq/PP1P3P/1RB1R1K1 w kq - 1 0
+[ Qc7 if Ne7 Qxf4 ]
+
+d) 
+panezahariev vs pugazh7777, lichess, (2092)
+2R5/R4p1k/3N3p/3Pp1nP/1p2P1q1/1K6/8/8 b - - 0 1
+[ ...Qd1+ Kxb4 Qd4+ Kb5 Qxa7 ]
+
+e) 
+the-Gymer vs FM asa76, lichess, (2093)
+3r2k1/1p2r1p1/pq4Bp/8/4n3/P3n3/1PP3PP/2QRR2K w - - 1 0
+[ Rxd8+ Qxd8 Qxe3 ]
+
+f) 
+JPage1105 vs lucasdeandrade, lichess, (2095)
+8/1ppk3p/p1p5/8/1P3q2/2P3RP/P7/R5K1 w - - 1 0
+[ Rd1+ Ke6 Re1+ if Kd7 Rd3+ ]
