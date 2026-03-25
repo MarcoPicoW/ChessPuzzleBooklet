@@ -42,11 +42,13 @@ from pathlib import Path
 # ─────────────────────────── puzzle selection ──────────────────────────────
 
 def select_puzzles(puzzles: list[dict], seed: int) -> list[dict]:
-    rng = random.Random(seed)
+    rng = random.Random()
+    # if you want to be sure that the booklet stay the same for the wohle week activete the seed, every week it generats a new seed and even if you rerun this program the output will stay the same
+    #rng = random.Random(seed)
 
-    m2  = [p for p in puzzles if p["category"] == "Mate in 2" and p["white"]]
-    m3  = [p for p in puzzles if p["category"] == "Mate in 3" and p["white"]]
-    m4  = [p for p in puzzles if p["category"] == "Mate in 4" and p["white"]]
+    m2  = [p for p in puzzles if p["category"] == "Mate in 2"]
+    m3  = [p for p in puzzles if p["category"] == "Mate in 3"]
+    m4  = [p for p in puzzles if p["category"] == "Mate in 4"]
     gm  = [p for p in puzzles if p["category"] == "ELO 2000+"]
 
     return (
@@ -168,16 +170,6 @@ def make_preamble(week: int, year: int, author: str) -> str:
   labelfont     = \small\sffamily,
 }
 
-% ── header / footer ───────────────────────────────────────────────────────
-\pagestyle{fancy}
-\fancyhf{}
-\renewcommand{\headrulewidth}{0.4pt}
-""" + \
-f"\\fancyhead[L]{{\\small\\sffamily Chess Booklet --- Week {week} / {year}}}\n" + \
-f"\\fancyhead[R]{{\\small\\sffamily {tex(author)}}}\n" + \
-r"\fancyfoot[C]{\small\thepage}" + \
-r"""
-
 % ── spacing ───────────────────────────────────────────────────────────────
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{4pt}
@@ -198,12 +190,7 @@ def make_title_page(week: int, year: int, author: str) -> str:
   {\LARGE\bfseries\sffamily Chess Booklet}\\[4mm]
   """ + \
 f"{{\\large\\sffamily Week {week} / {year}}}\\\\[12mm]\n" + \
-f"{{\\normalsize\\sffamily by {tex(author)}}}\\\\[30mm]\n" + \
-r"""  \rule{0.5\linewidth}{0.4pt}\\[4mm]
-  {\small\sffamily
-    10 puzzles $\cdot$ increasing difficulty\\[2mm]
-    4 easy $\cdot$ 3 medium $\cdot$ 2 hard $\cdot$ 1 grandmaster\\[2mm]
-    Solutions on page \pageref{solutions}}
+r"""
 \end{center}
 
 \clearpage
